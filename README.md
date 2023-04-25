@@ -6,4 +6,4 @@ I've spoken with other classmates on how to properly submit it to you so you'd b
 
 I've also attached the bash script for initiating the google VM, the coding I had to do to make the SQL table, and the code that was present in node-red. 
 
-#Thank you for your understanding. 
+Thank you for your understanding. 
