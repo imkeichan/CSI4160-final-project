@@ -1,0 +1,3 @@
+var tmp = msg.payload
+msg.payload = tmp.temperature*(9/5)+32
+return msg;

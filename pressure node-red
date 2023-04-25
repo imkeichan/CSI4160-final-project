@@ -1,0 +1,3 @@
+var pre = msg.payload
+msg.payload = pre.pressure
+return msg;
